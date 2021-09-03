@@ -3,7 +3,7 @@
     "type": "worksite",
     "shipments": {
       "branches": 35,
-      "wood": 35,
+      "wood": "35",
       "wooden board": 8,
       "maple sap": 2,
       "rusty lumberaxe": 1
