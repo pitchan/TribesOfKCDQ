@@ -1,0 +1,55 @@
+{
+  "lumberyard": {
+    "type": "worksite",
+    "shipments": {
+      "branches": 35,
+      "wood": 35,
+      "wooden board": 8,
+      "maple sap": 2,
+      "rusty lumberaxe": 1
+    },
+    "cost": {
+      "wooden boards": 12,
+      "cut stone": 9,
+      "wrought iron": 6,
+      "souls": 600
+    }
+  },
+  "Quarry": {
+    "type": "worksite",
+    "shipments": {
+      "ore": 39,
+      "flint": 39,
+      "stone": 39,
+      "iron": 39,
+      "cut stone": 9,
+      "wrought iron": 9,
+      "silver": 3,
+      "rusty pick": 1
+    },
+    "cost": {
+      "wooden boards": 12,
+      "cut stone": 9,
+      "wrought iron": 6,
+      "souls": 600
+    }
+  },
+  "Farm": {
+    "type": "worksite",
+    "shipments": {
+      "leather": 35,
+      "yarn": 35,
+      "oiled Leather": 8,
+      "spun yarn": 8,
+      "mushroom oil": 2,
+      "red meat": 2,
+      "rusty shovel": 1
+    },
+    "cost": {
+      "wooden boards": 12,
+      "cut stone": 9,
+      "wrought iron": 6,
+      "souls": 600
+    }
+  }
+}
