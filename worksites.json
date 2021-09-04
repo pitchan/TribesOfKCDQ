@@ -15,7 +15,7 @@
       "souls": 600
     }
   },
-  "Quarry": {
+  "quarry": {
     "type": "worksite",
     "shipments": {
       "ore": 39,
@@ -34,7 +34,7 @@
       "souls": 600
     }
   },
-  "Farm": {
+  "farm": {
     "type": "worksite",
     "shipments": {
       "leather": 35,
