@@ -1,0 +1,34 @@
+{
+    "name": "Grass",
+    "desc": "A material found in Midgard",
+    "id": "grass",
+    "used_by": [
+	  {
+		"name": "Enchanted Tripwire",
+		"type": "consumable",
+		"id": "enchanted_tripwire"
+	  },      
+	  {
+		"name": "Waystone Potion",
+		"type": "consumable",
+		"id": "waystone_potion"
+	  }
+    ],
+	"droped_by": [
+	  {
+		"name": "Grass Tuft",
+		"type": "plant_resources",
+		"id": "grass_tuft"
+	  },      
+	  {
+		"name": "Brown Deer",
+		"type": "creature",
+		"id": "brown_deer"
+	  },
+	  {
+		"name": "Black Deer",
+		"type": "creature",
+		"id": "black_deer"
+	  }
+    ]
+}

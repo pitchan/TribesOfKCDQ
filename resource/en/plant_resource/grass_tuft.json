@@ -1,0 +1,29 @@
+{
+    "name": "Grass Tuft",
+    "desc": "A common plant from Midgard",
+    "id": "grass_tuft",
+    "found_in": [
+	  {
+		"name": "Bright Forest",
+		"type": "location",
+		"id": "bright_forest"
+	  },      
+	  {
+		"name": "Smoky Highlands",
+		"type": "location",
+		"id": "smoky_highlands"
+	  }
+    ],
+	"drops": [
+	  {
+		"name": "grass",
+		"type": "materials",
+		"id": "grass"
+	  },      
+	  {
+		"name": "souls",
+		"type": "materials",
+		"id": "souls"
+	  }
+    ]
+}

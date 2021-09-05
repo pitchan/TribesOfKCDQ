@@ -1,51 +1,51 @@
 {
     "name": "Branches",
-    "desc": "A bundle of wood from Midgard",
+    "desc": "A material found in Midgard",
     "id": "branches",
     "used_by": [
 	  {
 		"name": "Wood",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "wood"
 	  },      
 	  {
 		"name": "Arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "arrow"
 	  },
 	  {
 		"name": "Thunder arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "thunder_arrow"
 	  },
 	  {
 		"name": "Fire arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "fire_arrow"
 	  },
 	  {
 		"name": "Explosive Arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "explosive_arrow"
 	  },
 	  {
 		"name": "Explosive Thunder Arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "explosive_thunder_arrow"
 	  },
 	  {
 		"name": "Explosive Fire Arrow",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "explosive_Fire_arrow"
 	  },
 	  {
 		"name": "Flint Lumberaxe",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "flint_lumberaxe"
 	  },
 	  {
 		"name": "Flint Pickaxe",
-		"type": "Tinker",
+		"type": "tinker",
 		"id": "flint_pickaxe"
 	  },
 	  {

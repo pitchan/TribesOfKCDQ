@@ -1,0 +1,39 @@
+{
+    "name": "Branch Pile",
+    "desc": "A bundle of wood from Midgard",
+    "id": "branch_pîle",
+    "found_in": [
+	  {
+		"name": "Bright Forest",
+		"type": "location",
+		"id": "bright_forest"
+	  },      
+	  {
+		"name": "Smoky Highlands",
+		"type": "location",
+		"id": "smoky_highlands"
+	  },
+	  {
+		"name": "Ash Beach",
+		"type": "location",
+		"id": "ash_beach"
+	  },
+	  {
+		"name": "Land Of Pools",
+		"type": "location",
+		"id": "land_of_pools"
+	  }
+    ],
+	"drops": [
+	  {
+		"name": "branches",
+		"type": "material",
+		"id": "branches"
+	  },      
+	  {
+		"name": "souls",
+		"type": "material",
+		"id": "souls"
+	  }
+    ]
+}
