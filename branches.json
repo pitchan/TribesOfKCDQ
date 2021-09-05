@@ -1,5 +1,4 @@
 {
-  "materials": [
     "name": "Branches",
     "desc": "A bundle of wood from Midgard",
 	"id": "branches",
@@ -122,5 +121,4 @@
 		"id": "mullein_plant"
 	  }
     ]
-  ]
 }
