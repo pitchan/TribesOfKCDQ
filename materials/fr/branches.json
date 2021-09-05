@@ -1,0 +1,124 @@
+{
+    "name": "Branches",
+    "desc": "A bundle of wood from Midgard",
+    "id": "branches",
+    "used_by": [
+	  {
+		"name": "Wood",
+		"type": "Tinker",
+		"id": "wood"
+	  },      
+	  {
+		"name": "Arrow",
+		"type": "Tinker",
+		"id": "arrow"
+	  },
+	  {
+		"name": "Thunder arrow",
+		"type": "Tinker",
+		"id": "thunder_arrow"
+	  },
+	  {
+		"name": "Fire arrow",
+		"type": "Tinker",
+		"id": "fire_arrow"
+	  },
+	  {
+		"name": "Explosive Arrow",
+		"type": "Tinker",
+		"id": "explosive_arrow"
+	  },
+	  {
+		"name": "Explosive Thunder Arrow",
+		"type": "Tinker",
+		"id": "explosive_thunder_arrow"
+	  },
+	  {
+		"name": "Explosive Fire Arrow",
+		"type": "Tinker",
+		"id": "explosive_Fire_arrow"
+	  },
+	  {
+		"name": "Flint Lumberaxe",
+		"type": "Tinker",
+		"id": "flint_lumberaxe"
+	  },
+	  {
+		"name": "Flint Pickaxe",
+		"type": "Tinker",
+		"id": "flint_pickaxe"
+	  },
+	  {
+		"name": "Enchanted Tripwire",
+		"type": "consumable",
+		"id": "enchanted_tripwire"
+	  },
+    ],
+	"droped_by": [
+	  {
+		"name": "Lunar Rowan Tree",
+		"type": "plant_resource",
+		"id": "lunar_rowan_tree"
+	  },      
+	  {
+		"name": "Birch Tree",
+		"type": "plant_resource",
+		"id": "birch_tree"
+	  },
+	  {
+		"name": "Branch Pile",
+		"type": "plant_resource",
+		"id": "branch_pile"
+	  },
+	  {
+		"name": "Yew Tree",
+		"type": "plant_resource",
+		"id": "yew_tree"
+	  },
+	  {
+		"name": "Lunar Yew Tree",
+		"type": "plant_resource",
+		"id": "lunar_yew_tree"
+	  },
+	  {
+		"name": "Maple Tree",
+		"type": "plant_resource",
+		"id": "maple_tree"
+	  },
+	  {
+		"name": "Mistletoe Tree",
+		"type": "plant_resource",
+		"id": "mistletoe_tree"
+	  },
+	  {
+		"name": "Pine Tree",
+		"type": "plant_resource",
+		"id": "pine_tree"
+	  },
+	  {
+		"name": "Frozen Pine Tree",
+		"type": "plant_resource",
+		"id": "frozen_pine_tree"
+	  },
+	  {
+		"name": "Spruce Tree",
+		"type": "plant_resource",
+		"id": "spruce_tree"
+	  },
+	  {
+		"name": "Frozen Spruce Tree",
+		"type": "plant_resource",
+		"id": "frozen_spruce_tree"
+	  },
+	  {
+		"name": "Rowan Tree",
+		"type": "plant_resource",
+		"id": "rowan_tree"
+	  },
+	  {
+		"name": "Mullein Plant",
+		"type": "plant_resource",
+		"id": "mullein_plant"
+	  }
+    ]
+}
